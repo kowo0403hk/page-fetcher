@@ -1,0 +1,23 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kowo0403hk/page-fetcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kowo0403hk/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/kowo0403hk/page-fetcher#readme",
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
